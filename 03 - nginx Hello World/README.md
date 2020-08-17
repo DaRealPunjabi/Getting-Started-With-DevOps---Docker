@@ -36,7 +36,7 @@ docker cp ./src/index.html f3d2987205ec:/usr/share/nginx/html/
 Commit a container’s file changes and settings into a new image. Run the following command in the terminal:
 <pre><code>
 <b>docker container commit &ltcontainer id&gt &ltnew image name:tag&gt</b> <br />
-docker commit f3d2987205ec darealpunjabi:version1 <br />
+docker container commit f3d2987205ec darealpunjabi:version1 <br />
 </code></pre>
 
 
