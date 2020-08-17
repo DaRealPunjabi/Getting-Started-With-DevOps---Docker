@@ -24,8 +24,8 @@ docker build -t my-php-image .
 ```
 docker image ls
 ```
->REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
->my-php-image        latest              488f5e62253f        4 minutes ago
+>REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE <br />
+>my-php-image        latest              488f5e62253f        4 minutes ago <br />
 
 
 ## Run New Container ~ my-php-container
