@@ -54,7 +54,7 @@ Run the following command in the terminal:
 docker run -p 8080:80 darealpunjabi:version1
 ```
 
-##Test the deployment
+## Test the deployment
 From the browser, enter
 http://localhost:8080
 >Hello, World! — DaRealpunjabi
